@@ -1,8 +1,8 @@
-# Dokumentasi Survey Lapangan CAPEX Management — PAM JAYA
+# Dokumentasi Survey Lapangan CAPEX Management
 
 ## Tentang Aplikasi
 
-Aplikasi web berbasis Streamlit untuk mengotomatisasi pembuatan dokumen rekap foto survey lapangan CAPEX PAM JAYA. Sebelumnya proses ini dilakukan secara manual dengan mengisi template Word dan memasukkan foto satu per satu. Aplikasi ini memungkinkan staff untuk menghasilkan dokumen yang siap cetak hanya dalam beberapa menit.
+Aplikasi web berbasis Streamlit untuk mengotomatisasi pembuatan dokumen rekap foto survey lapangan CAPEX. Sebelumnya proses ini dilakukan secara manual dengan mengisi template Word dan memasukkan foto satu per satu. Aplikasi ini memungkinkan staff untuk menghasilkan dokumen yang siap cetak hanya dalam beberapa menit.
 
 ---
 
